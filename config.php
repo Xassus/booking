@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 return array(
 
 	'config' => array(
-		'base_url' => 'http://http://room-booking/',
+		'base_url' => 'http://room-booking/',
 		'log_threshold' => 1,
 		'index_page' => 'index.php',
 		'uri_protocol' => 'REQUEST_URI',
