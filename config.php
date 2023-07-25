@@ -13,9 +13,9 @@ return array(
 	'database' => array(
 		'dsn' => '',
 		'hostname' => '127.0.0.1',
-		'username' => 'db_user',
-		'password' => 'db_pass',
-		'database' => 'db_name',
+		'username' => 'setup',
+		'password' => 'Swinglow2021',
+		'database' => 'crbs_db',
 		'dbdriver' => 'pdo',
 		'subdriver' => 'mysql',
 	),
